@@ -21,7 +21,7 @@
 #include <linux/power_supply.h>
 #include <linux/hrtimer.h>
 #include <linux/workqueue.h>
-#include <../../arch/arm/mach-msm/clock.h>
+#include <../arch/arm/mach-msm/clock.h>
 
 
 #include "power_debug.h"
